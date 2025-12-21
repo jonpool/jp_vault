@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meeting-notes.md",
+                "file": "vegas-best-places.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for meeting-notes"
+              "title": "Backlinks for vegas-best-places"
             }
           },
           {
@@ -165,8 +165,7 @@
               "title": "Outline of meeting-notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5db56444ace49d90",
+  "active": "b1370988ee51ebf2",
   "lastOpenFiles": [
     "meeting-notes.md",
     "vegas-best-places.md",
