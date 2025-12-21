@@ -6,7 +6,7 @@ Based on several travel guides and expert recommendations, here are some of the 
 2. Red Rock Canyon - Scenic natural beauty and outdoor activities.
 3. The Neon Museum - Explore the history of Las Vegas through its neon signs.
 4. Best hotels and entertainment options - Includes top hotels, maps, and travel tips.
-5. Top shows, events, rides, and culinary experiences - Star-studded shows, thrilling rides, and fine dining.
+5. Top shows, events, rides, and culinary experiences - Star-studded shows, thrilling rides, and fine dining. Joao
 
 For detailed information, you can visit these sources:
 - https://lasvegaswonders.com/best-places-to-visit-in-las-vegas/

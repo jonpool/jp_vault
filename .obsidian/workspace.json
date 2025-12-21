@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meeting-notes.md",
+                "file": "vegas-best-places.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meeting-notes"
+              "title": "vegas-best-places"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meeting-notes.md",
+                "file": "vegas-best-places.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from meeting-notes"
+              "title": "Outgoing links from vegas-best-places"
             }
           },
           {
@@ -186,6 +186,7 @@
   },
   "active": "5db56444ace49d90",
   "lastOpenFiles": [
+    "meeting-notes.md",
     "vegas-best-places.md"
   ]
 }
