@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EUA-intercept-ship-venezuela.md",
+                "file": "meeting-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EUA-intercept-ship-venezuela"
+              "title": "meeting-notes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EUA-intercept-ship-venezuela.md",
+                "file": "meeting-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EUA-intercept-ship-venezuela"
+              "title": "Backlinks for meeting-notes"
             }
           },
           {
@@ -183,11 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5db56444ace49d90",
+  "active": "e0680ba40ad7b996",
   "lastOpenFiles": [
     "vegas-best-places.md",
-    "meeting-notes.md",
     "EUA-intercept-ship-venezuela.md",
+    "meeting-notes.md",
     "n8n-notes/test.txt",
     "n8n-notes",
     "EUA-intercept-ship-venezuela.txt"
