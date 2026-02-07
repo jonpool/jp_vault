@@ -1,4 +1,5 @@
-# Solstício de Verão 2025: O Dia Mais Longo do Ano
+# Solstíci
+de Verão 2025: O Dia Mais Longo do Ano
 
 ## Introdução
 

@@ -5,10 +5,20 @@
       "key": "F5"
     }
   ],
-  "obsidian-livesync:livesync-abortsync": [
+  "obsidian-livesync:livesync-sync-internal": [
     {
-      "modifiers": [],
-      "key": "F5"
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-livesync:livesync-toggle": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
     }
   ]
 }
