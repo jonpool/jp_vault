@@ -1,0 +1,32 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "1ef2Xc5Ty-_2jB1-Bhc_9",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "f_SdpQtit4iOC8D9lfNdE",
+      "name": "",
+      "value": "#e00606"
+    },
+    {
+      "id": "w4VC0IbhqACDuQ3Gb4r_7",
+      "name": "",
+      "value": "#822da9"
+    },
+    {
+      "id": "BIqXQ1ArG2nyZWOO1OCWv",
+      "name": "",
+      "value": "#4b17d9"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Customers/cliente.md",
+      "color": "f_SdpQtit4iOC8D9lfNdE"
+    }
+  ]
+}
