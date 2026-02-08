@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b01093886a66d28c",
+        "id": "5439b346e3a05867",
         "type": "tabs",
         "children": [
           {
-            "id": "5db56444ace49d90",
+            "id": "c8bcc81fdf770530",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "n8n-notes/teste.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "teste"
+              "title": "New tab"
             }
           }
         ]
@@ -33,6 +29,7 @@
       {
         "id": "896f4a290143d40e",
         "type": "tabs",
+        "dimension": 66.76767676767676,
         "children": [
           {
             "id": "e0680ba40ad7b996",
@@ -75,6 +72,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "80a574ad204c2663",
+        "type": "tabs",
+        "dimension": 33.23232323232323,
+        "children": [
+          {
+            "id": "5db56444ace49d90",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,6 +101,7 @@
       {
         "id": "d6b3f00fe5ca6e25",
         "type": "tabs",
+        "dimension": 65.21317829457365,
         "children": [
           {
             "id": "b1370988ee51ebf2",
@@ -113,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "n8n-notes/teste.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from teste"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,17 +170,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meeting-notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of meeting-notes"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "c2772613d79b5dce",
+        "type": "tabs",
+        "dimension": 34.786821705426355,
+        "children": [
+          {
+            "id": "14ad276b4c0880cc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,6 +216,7 @@
   },
   "active": "5db56444ace49d90",
   "lastOpenFiles": [
+    "Test Note for Node.md",
     "n8n-notes/teste.md",
     "EUA-intercept-ship-venezuela.md",
     "summer_solstice_longest_day_2025.md",
