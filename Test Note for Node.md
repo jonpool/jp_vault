@@ -1,0 +1,1 @@
+This is a test note created to verify the functioning of the note node.
